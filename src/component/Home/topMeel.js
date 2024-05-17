@@ -1,0 +1,34 @@
+export const topMeels = [
+    {
+        image:"https://images.pexels.com/photos/1199957/pexels-photo-1199957.jpeg?auto=compress&cs=tinysrgb&w=400",
+        title:"Hambergor"
+    },
+    {
+        image:"https://images.pexels.com/photos/1199957/pexels-photo-1199957.jpeg?auto=compress&cs=tinysrgb&w=400",
+        title:"Hambergor"
+    },
+    {
+        image:"https://images.pexels.com/photos/1199957/pexels-photo-1199957.jpeg?auto=compress&cs=tinysrgb&w=400",
+        title:"Hambergor"
+    },
+    {
+        image:"https://images.pexels.com/photos/1199957/pexels-photo-1199957.jpeg?auto=compress&cs=tinysrgb&w=400",
+        title:"Hambergor"
+    },
+    {
+        image:"https://images.pexels.com/photos/1199957/pexels-photo-1199957.jpeg?auto=compress&cs=tinysrgb&w=400",
+        title:"Hambergor"
+    },
+    {
+        image:"https://images.pexels.com/photos/1199957/pexels-photo-1199957.jpeg?auto=compress&cs=tinysrgb&w=400",
+        title:"Hambergor"
+    },
+    {
+        image:"https://images.pexels.com/photos/1199957/pexels-photo-1199957.jpeg?auto=compress&cs=tinysrgb&w=400",
+        title:"Hambergor"
+    },
+    {
+        image:"https://images.pexels.com/photos/1199957/pexels-photo-1199957.jpeg?auto=compress&cs=tinysrgb&w=400",
+        title:"Hambergor"
+    },
+]
